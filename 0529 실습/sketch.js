@@ -4,5 +4,7 @@ function setup() {
 
 function draw() {
   background(220);
-  text("My First Github Pages!", 200, 200)
+  textAlign(CENTER, CENTER);
+  textSize(20);
+  text("My First Github Pages!",200,200);
 }
